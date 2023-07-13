@@ -1,6 +1,6 @@
 ---
 title: 'What's to Bet?'
-date: 2019-07-18T17:18:05+01:00
+date: 2019-07-14T03:32:05+07:00
 draft: false
 ---
 
