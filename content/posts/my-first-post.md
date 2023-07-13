@@ -1,5 +1,5 @@
 ---
-title: 'What's to Bet?'
+title: 'Whats to Bet?'
 date: 2019-07-14T03:32:05+07:00
 draft: false
 ---
