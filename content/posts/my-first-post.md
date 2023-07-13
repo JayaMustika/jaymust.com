@@ -5,5 +5,6 @@ draft: false
 ---
 
 # Whats to bet?
+![leap of faith](/Miles_Morales_Leap_of_Faith.webp)
 Ada sebuah pintu di depanmu, untuk memasukinya kamu harus melepaskan segalanya.
 Tak ada yang berbeda, hanya melakukan apa yang selama ini saya lakukan, mengusahakan perubahan!
