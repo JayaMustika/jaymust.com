@@ -10,4 +10,4 @@ draft: true
 Ada sebuah pintu di depanmu, untuk memasukinya kamu harus melepaskan segalanya.
 Tak ada yang berbeda, hanya melakukan apa yang selama ini saya lakukan, menyambut perubahan!
 
-Hello There wassup!
+Hello There Wassup!
